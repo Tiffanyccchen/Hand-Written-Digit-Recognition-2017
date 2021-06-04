@@ -1,5 +1,5 @@
 # Hand-Written-Digit-Recognition-2017
-Project for the Machine Learning course - using PCA + KNN 
+Project for the Machine Learning course - using PCA + KNN. 
 
 ## Introduction
 
